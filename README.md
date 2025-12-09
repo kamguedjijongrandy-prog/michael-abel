@@ -21,8 +21,8 @@ UNORDER LIST
     To run my project follow the following step
     '''cmd
     git init  --in folder to chose to work on
-    git clone <url> --to clone my repovesdylane
-    ---
+    git clone <url> --To clone my repovesdylane
+    '''
     that will run the code below
     '''javascript
     console.log("Hello world")
